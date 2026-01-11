@@ -1,0 +1,7 @@
+Tobias Gerlich|18|tobiasger@seznam.cz|Workshop|01.01.2026|hello world
+Jakub Bomba|66|honzyk@seznam.cz|Turnaj|01.01.2026|bombastyczno
+Anička Anička|7|annann@seznam.cz|Výlet|01.01.2026|ahojda
+Štěpán Kůň|18|pferd@seznam.cz|Workshop|01.01.2026|hello there
+Václav Macek|34|macek.v@gmail.com|Výlet|04.01.2026|Macatý výlet
+Daniel Janda|22|dan.jan@email.cz|Turnaj|04.01.2026|Damián
+John Lemon|21|melonik@drevo.sk|Workshop|04.01.2026|Meloniky Citroniky
